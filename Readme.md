@@ -18,3 +18,24 @@ We will be collaborating on this specific GitHub repository, each of us making o
 ## Cheatsheet
 
 This is an extensive write-up of how to use markdown on GitHub: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+## Step-by-Step
+
+Follow the below workflow.
+
+1. Create a github account
+1. Fork this repository so that you have a copy of it in your own account
+1. Create a new file in your copy of the repository, and name it "YourUsername.md"
+1. Write that file in markdown
+	1. Commit those changes
+	1. Visit that file on GitHub to see how it renders
+	1. Keep updating that file until you like what you see
+	1. Consider adding images, referencing the "assets" folder
+
+## Bonus points
+
+Our work for tomorrow is as follows. If you're ready today, though, go ahead and try to do the following:
+
+1. Open a pull request from your fork over to my fork's "main" branch
+1. I'll review your work and send you feedback
+1. When I think that your work is ready for inclusion, I'll accept the pull request
