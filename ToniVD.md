@@ -16,7 +16,7 @@ I wanted to find a recipe with some of ingredients I had on hand:
 3. Eggs 
 4. Milk
 
-So I used this recipe: [Homemade Waffles Recipe] (https://www.spendwithpennies.com/fluffy-homemade-waffle-recipe/#wprm-recipe-container-169611) to try the waffle maker. 
+So I used this recipe: [Homemade Waffles Recipe](https://www.spendwithpennies.com/fluffy-homemade-waffle-recipe/#wprm-recipe-container-169611) to try the waffle maker. 
 
 ![First Time Waffles](/assets/ToniVD_3.jpeg)
 
@@ -27,7 +27,7 @@ So I used this recipe: [Homemade Waffles Recipe] (https://www.spendwithpennies.c
 | Addition | Taste | Comments |
 | -------- | ----- | ---------| 
 | Ground Flaxseeds/ Flaxseed powder | No Change | Nice way to add flaxseeds to diet |
-| Pumpkin seeds | N/A  | N/A |
+| Pumpkin seeds | TBD | TBD |
 
 ## Coding and Waffle...charts :)
 
