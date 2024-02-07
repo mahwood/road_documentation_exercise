@@ -2,7 +2,9 @@
 
 ## Buying the Waffle Maker
 
-Pic of waffle maker 
+![Waffle Maker](/assets/ToniVD_2)
+
+
 I got this *Black + Decker* waffle maker from [**Courts**](https://maps.app.goo.gl/NFjstDkFgDtk8df46). 
 If you want to check it out here's a [link](https://mx.blackanddeckerhogar.com/productos/cocina-y-mas/waffleras/wm120b.aspx).
 
