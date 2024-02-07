@@ -2,7 +2,7 @@
 
 ## Buying the Waffle Maker
 
-![Waffle Maker](/assets/ToniVD_2)
+![Waffle Maker](/assets/ToniVD_2.jpeg)
 
 
 I got this *Black + Decker* waffle maker from [**Courts**](https://maps.app.goo.gl/NFjstDkFgDtk8df46). 
