@@ -4,10 +4,10 @@ Before you trade any security or equity, you must first understand the market st
 
 Market structure can be broadly classified into three distinct categories:
 
- * **Bullish Market Structure**
+ * **Bullish Market Structure**:
        A bullish structure is defined by a series of higher highs (HH) and higher lows (HL). The trend continues in the same direction until the asset price records a lower low (LL).
 
-* **Bearish Market Structure**
+* **Bearish Market Structure**:
       A bearish structure is defined by lower lows (LL) and lower highs (LH). The price trend continues as long as lower highs (LH) are being printed and until a higher high (HH) is created
 
 * **Sideways Market Structure**:
