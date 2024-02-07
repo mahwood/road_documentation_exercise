@@ -10,6 +10,6 @@ Market structure can be broadly classified into three distinct categories:
 * **Bearish Market Structure**
       A bearish structure is defined by lower lows (LL) and lower highs (LH). The price trend continues as long as lower highs (LH) are being printed and until a higher high (HH) is created
 
-* **Sideways Market Structure**
+* **Sideways Market Structure**:
         The horizontal movement of price shown by equal highs (EH) and equal lows (EL) is called a sideways trend or sometimes referred to as consolidation.
 Support
