@@ -3,8 +3,8 @@
 ## Buying the Waffle Maker
 
 Pic of waffle maker 
-I got this *Black + Decker* waffle maker from **Courts**. 
-If you want to check it out here's a link.
+I got this *Black + Decker* waffle maker from [**Courts**](https://maps.app.goo.gl/NFjstDkFgDtk8df46). 
+If you want to check it out here's a [link](https://mx.blackanddeckerhogar.com/productos/cocina-y-mas/waffleras/wm120b.aspx).
 
 ## Using the Waffle Maker 
 I wanted to find a recipe with some of ingredients I had on hand: 
@@ -16,7 +16,7 @@ I wanted to find a recipe with some of ingredients I had on hand:
 
 So I used this recipe:  to try using the waffle maker. 
 
-
+![]
 Pic of waffles
 
 The waffles turned out tasty and **fluffy**. 
