@@ -16,11 +16,11 @@ I wanted to find a recipe with some of ingredients I had on hand:
 3. Eggs 
 4. Milk
 
-So I used this recipe:  to try using the waffle maker. 
+> So I used this recipe: [Homemade Waffles Recipe] (https://www.spendwithpennies.com/fluffy-homemade-waffle-recipe/#wprm-recipe-container-169611) to try the waffle maker. 
 
 ![First Time Waffles](/assets/ToniVD_3.jpeg)
 
->The waffles turned out tasty and **fluffy**. 
+The waffles turned out tasty and **fluffy**. 
 
 ## Trying Waffle Variations
 
