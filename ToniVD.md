@@ -3,25 +3,29 @@
 ## Buying the Waffle Maker
 
 Pic of waffle maker 
-I got this Black + Decker waffle maker from **Courts**. If you want to check it out here's a link.
+I got this *Black + Decker* waffle maker from **Courts**. 
+If you want to check it out here's a link.
 
 ## Using the Waffle Maker 
-I found an online recipe using ingredients I had on hand.
+I wanted to find a recipe with some of ingredients I had on hand: 
 
-### Ingredients:
-1. 2 cups of flour
-2. 1 tbsp baking powder
-3. 1/2 tsp salt
-4. 2 tbsp sugar
-5. 2 large eggs *divded (separate egg white and yolk)*
-6. 1 + 2/3 cups of milk
-7. 1/3 cup of oil
-   * OR 1/3 cup of butter
-9. 1 tsp vanilla extract
+1. Flour
+2. Sugar
+3. Eggs 
+4. Milk
 
+So I used this recipe:  to try using the waffle maker. 
 
 
 Pic of waffles
 
-## Stuff to try with Waffle Maker
+The waffles turned out tasty and **fluffy**. 
+
+## Trying Waffle Variations
+
+
+
+## Coding and Waffle...charts :)
+
+
 
