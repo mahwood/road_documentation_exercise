@@ -1,4 +1,4 @@
-#                                 I Just Got A Waffle Maker
+#                                 I Just Got a Waffle Maker
 
 ## Buying the Waffle Maker
 
