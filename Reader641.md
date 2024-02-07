@@ -1,3 +1,6 @@
+![image](https://github.com/Reader641/road_documentation_exercise/assets/72936922/256da19e-6846-4e01-a275-fe9565605790)
+
+
 Once a file is created it must be managed. Otherwise it remains at-risk until action is taken on it:
 - Files take up space on a hard drive and high-resolution images can take up a lot of space. File volumes are expressed in bytes
 - Pay attention to he sizes of files, they can provide hints to potential problems in the digitalization process. From example a corrupted file may be incomplete and therefore dramatically smaller than the other files.
