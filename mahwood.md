@@ -1,3 +1,3 @@
 # Introduction
 
-This is my first time using gethub
+This is my first time using github
