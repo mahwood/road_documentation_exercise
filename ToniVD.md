@@ -16,11 +16,11 @@ I wanted to find a recipe with some of ingredients I had on hand:
 3. Eggs 
 4. Milk
 
-> So I used this recipe: [Homemade Waffles Recipe] (https://www.spendwithpennies.com/fluffy-homemade-waffle-recipe/#wprm-recipe-container-169611) to try the waffle maker. 
+So I used this recipe: [Homemade Waffles Recipe] (https://www.spendwithpennies.com/fluffy-homemade-waffle-recipe/#wprm-recipe-container-169611) to try the waffle maker. 
 
 ![First Time Waffles](/assets/ToniVD_3.jpeg)
 
-The waffles turned out tasty and **fluffy**. 
+>The waffles turned out tasty and **fluffy**. 
 
 ## Trying Waffle Variations
 
@@ -31,7 +31,7 @@ The waffles turned out tasty and **fluffy**.
 
 ## Coding and Waffle...charts :)
 
-I don't know how to make a waffle by programming but, there are waffle charts in Python. These wcharts are used to represent progress or percentages with a grid. You can generate waffle charts in Python using the [PyWaffle](https://pywaffle.readthedocs.io/en/latest/) package:
+I don't know how to make a waffle by programming but, there are **waffle charts** in Python. Waffle charts are used to represent progress or percentages with a grid. You can generate waffle charts in Python using the [PyWaffle](https://pywaffle.readthedocs.io/en/latest/) package:
 
 ```
 $ pip install pywaffle
