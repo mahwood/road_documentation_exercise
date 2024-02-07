@@ -28,9 +28,9 @@ A good guide will likely lead you to choose (at least) one of the three starter 
 
 # Comparisons
 
-> Imitation is the sincerest form of flattery mediocrity can pay to genius.
+> Imitation is the sincerest form of flattery mediocrity can pay to genius.[^5]
 >
-> Attributed to Oscar Wilde in The Daily News Leader of Staunton, Virginia[^5]
+> _Attributed to Oscar Wilde in The Daily News Leader of Staunton, Virginia_
 
 I strongly dislike the above quote, and am of the opinion many in the field of computer science would agree with me. Instead, I much more prefer the artists’ viewpoint of [inspiration](https://might-could.com/essays/inspiration-vs-imitation-how-to-copy-as-an-artist/).
 
