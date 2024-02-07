@@ -1,4 +1,4 @@
-![image](https://github.com/Reader641/road_documentation_exercise/assets/72936922/256da19e-6846-4e01-a275-fe9565605790)
+![image](https://github.com/Reader641/road_documentation_exercise/blob/main/assets/FileType.png)
 
 
 Once a file is created it must be managed. Otherwise it remains at-risk until action is taken on it:
