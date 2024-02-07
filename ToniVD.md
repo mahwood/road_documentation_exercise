@@ -26,7 +26,7 @@ So I used this recipe:  to try using the waffle maker.
 
 | Addition | Taste | Comments |
 | -------- | ----- | ---------| 
-| Ground Flaxseeds/ Flaxseed powder | No Change | Nice way to add flaxseed to diet |
+| Ground Flaxseeds/ Flaxseed powder | No Change | Nice way to add flaxseeds to diet |
 | Pumpkin seeds | N/A  | N/A |
 
 ## Coding and Waffle...charts :)
