@@ -1,6 +1,9 @@
-# What is market structure?
+# MARKET STRUCTURE 
 
-![Market Sturcture](https://github.com/RodSmoove/road_documentation_exercise/blob/main/assets/rodsmoove_1.jpg)
+
+
+
+## What is market structure?
 
 Before you trade any security or equity, you must first understand the market structure. Market structure can help you understand the behavior, condition, and current flow of the market. Market structure puts an emphasis on support & resistance levels, swing highs, and swing lows.
 
