@@ -1,4 +1,4 @@
-![image](assets/Reader641_1.png)
+![image_1](assets/Reader641_1.png)
 
 
 Once a file is created it must be managed. Otherwise, it remains at risk until action is taken on it:
@@ -38,4 +38,4 @@ ACDSE
 	- sRGB color space
 
 # Here is a Cookie
-![image](assets/Reader641_2.jpg)
+![image_2](assets/Reader641_2.jpg)
