@@ -27,3 +27,5 @@ As well as her numerous collaborations with **Travis Scott**, **Kendrick Lamar**
 SZA’s <sup>SOS era</sup> also includes the global success of her “Kill Bill” single. An official music video for “**Kill Bill**” includes a cameo from Kill Bill movie star **Vivica A. Fox**.
 
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/SQnc1QibapQ)](https://youtu.be/dQw4w9WgXcQ](https://www.youtube.com/watch?v=SQnc1QibapQ/ )
+click video to listen to her hit Kill Bill
