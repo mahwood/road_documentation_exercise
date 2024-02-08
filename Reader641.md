@@ -1,4 +1,4 @@
-![image](https://github.com/Reader641/road_documentation_exercise/blob/main/assets/FileType.png)
+![image](assets/Reader641_1)
 
 
 Once a file is created it must be managed. Otherwise, it remains at risk until action is taken on it:
@@ -36,3 +36,6 @@ ACDSE
 	- These files should not be enlarged
 	- JPEG file format
 	- sRGB color space
+
+# Here is a Cookie
+![image](assets/Reader641_2)
