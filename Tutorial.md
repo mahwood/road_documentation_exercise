@@ -11,17 +11,46 @@ In this lesson, you will be introduced to Markdown, a plain text-based syntax fo
 ### Markdown Syntax
 Markdown files are saved with the extension .md, and can be opened in a text editor such as TextEdit, Notepad, Sublime Text, or Vim. Many websites and publishing platforms also offer web-based editors and/or extensions for entering text using Markdown syntax.
 
-####Headings
+#### Headings
 Four levels of headings are available in Markdown, and are indicated by the number of "#" preceding the heading text. The above heading is the 4th level of heading.
 
-**Shopping List**
+***Shopping List***
 -----------
--* Fruits
+* Fruits 
   * Apples
   * Oranges
   * Grapes
 * Dairy
   * Milk
-  * Cheese-
+  * Cheese
+    
+___To-do list___
+----------
+1. Finish Markdown tutorial
+2. Go to grocery store
+3. Prepare lunch
 
-> Although I like watching it I also like playing though I haven't as much lately.
+```html
+<html>
+    <head>
+        <title>Documentation Tutorial</title>
+    </head>
+    <body>
+    </body>
+</html>
+```
+
+> This is a Markdown Tutorial
+
+| Left | Center | Right |
+| :-------- | :-------: | --------: |
+| Apples | Red | 5000 |
+| Bananas | Yellow | 75 |
+
+---
+***
+## Relative Links
+[Welcome message in folder](assets/RoshawnL.md)
+***
+___
+## Images
