@@ -1,5 +1,5 @@
 # MARKET STRUCTURE 
-
+![Market Structure](https://github.com/RodSmoove/road_documentation_exercise/blob/main/assets/rodsmoove_3.jpg)
 
 
 
