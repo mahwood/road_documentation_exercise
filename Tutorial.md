@@ -54,3 +54,4 @@ ___To-do list___
 ***
 ___
 ## Images
+![Image of our planet](assets/RoshawnL_01.jpg)
