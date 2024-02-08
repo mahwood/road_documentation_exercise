@@ -1,6 +1,6 @@
 # The Formal Essay Outline
 
-=====================
+========
 
 ## Topic: Artificial Intelligence and its Impact on the Workforce  
 
