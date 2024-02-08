@@ -10,11 +10,6 @@ Before you trade any security or equity, you must first understand the market st
 
 
 
-
-
-
-
-
 Market structure can be broadly classified into three distinct categories:
 
 
