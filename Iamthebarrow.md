@@ -45,7 +45,7 @@ Artificial intelligence, in its relentless march forward, is sculpting a new par
 [1]: [(https://www.weforum.org/publications/the-future-of-jobs-report-2020/) "The Future of Jobs Report 2020."
 [2]: www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages./ "Jobs Lost, Jobs Gained: Workforce Transitions in a Time of Automation."
 
-See the included sources below in the standard M.L.A format:
+See the included sources below in the standard M.L.A. (9th Edition) citation and formatting guidelines:
 
 World Economic Forum. "The Future of Jobs Report 2020." World Economic Forum, Oct. 2020, https://www.weforum.org/publications/the-future-of-jobs-report-2020/
 
