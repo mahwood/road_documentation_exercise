@@ -5,27 +5,23 @@ Developed in 2004 by John Gruber, Markdown refers to both (1) a way of formattin
 Plain text files have many advantages over other formats. For one, they are readable on virtually all devices. They have also withstood the test of time better than other file types – if you’ve ever tried to open a document saved in a legacy word processor format, you’ll be familiar with the compatibility challenges involved.
 Football is one of my favourite hobbies whether that be watching or playing.
 
-One of my first memories of football was watching the 2009 Quarter Finals between Chelsea and Liverpool.
+## Lesson goals
+In this lesson, you will be introduced to Markdown, a plain text-based syntax for formatting documents. You will find out why it is used, how to format Markdown files, and how to preview Markdown-formatted documents on the web.
 
+### Markdown Syntax
+Markdown files are saved with the extension .md, and can be opened in a text editor such as TextEdit, Notepad, Sublime Text, or Vim. Many websites and publishing platforms also offer web-based editors and/or extensions for entering text using Markdown syntax.
 
+####Headings
+Four levels of headings are available in Markdown, and are indicated by the number of "#" preceding the heading text. The above heading is the 4th level of heading.
 
-## Favourite Club
-**Chelsea** is my favourite club.
-
-### Favourite Player
-My favourite ever player is _Eden Hazard_.
-
-#### Favourite Season
-My favourite season was the CL winning 21/22 campaign
-
-Favourite Players
-----------------
-* Chelsea Players
-  * Drogba
-  * Hazard
-  * Palmer
-* Non-Chelsea Players
-  * Kaka
-  * Neymar
+**Shopping List**
+-----------
+-* Fruits
+  * Apples
+  * Oranges
+  * Grapes
+* Dairy
+  * Milk
+  * Cheese-
 
 > Although I like watching it I also like playing though I haven't as much lately.
