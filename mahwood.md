@@ -1,7 +1,7 @@
 ![NatGeo logo](https://github.com/mahwood/road_documentation_exercise/blob/main/assets/mahwood_2.png )
 
 # National Geographics
-National Geographic (formerly National Geographic Channel; abbreviated and trademarked as Nat Geo or Nat Geo TV) is an American pay television network and flagship channel owned by the National Geographic Global Networks unit of Disney Entertainment and National Geographic Partners. It offers entertaining educational programs about animals, environment, history and culture, science and travel. I like to watch the programs about the Big Cats. I especially like the cheetah for their beauty, stealth and impressive bust of speed.
+National Geographic (formerly National Geographic Channel; abbreviated and trademarked as Nat Geo or Nat Geo TV) is an American pay television network and flagship channel owned by the National Geographic Global Networks unit of Disney Entertainment and National Geographic Partners. It offers entertaining educational programs about animals, environment, history and culture, science and travel. I like to watch the programs about the Big Cats. I especially like the cheetah for their beauty, stealth and impressive burst of speed.
 
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/mJfb7NhHYaY)](https://youtu.be/dQw4w9WgXcQ](https://www.youtube.com/watch?v=mJfb7NhHYaY/ )
@@ -52,5 +52,5 @@ All cats descend from the Felidae family, sharing similar musculature, cardiovas
 __________
 _____
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTAwMDA2NF19
+eyJoaXN0b3J5IjpbMTE1NTY0MzA0NiwtNDQ1MDAwMDY0XX0=
 -->
