@@ -40,3 +40,13 @@ Despite its promising horizon, AI casts a long shadow of challenges, particularl
 The dual-edged sword of AI necessitates a multi-faceted strategy to harness its potential while mitigating its adverse effects. This strategy involves fostering an ecosystem of continuous learning and skill development, supported by government policies and corporate practices. Educational institutions play a pivotal role in preparing future generations for the AI-augmented workforce, emphasizing STEM education, critical thinking, and adaptability. Simultaneously, businesses must invest in reskilling and upskilling initiatives to equip their employees for the future. Moreover, policymakers are responsible for creating safety nets for displaced workers and ensuring equitable access to the opportunities presented by AI.
 
 Artificial intelligence, in its relentless march forward, is sculpting a new paradigm for the workforce. This era of transformation brings with it a landscape filled with both fertile opportunities and daunting challenges. Navigating this terrain requires a concerted effort from all stakeholders, including governments, businesses, and educational institutions, to foster a workforce that is resilient, adaptable, and equipped for the future. By embracing a strategy that values continuous learning, skill development, and inclusive policies, we can steer the workforce toward a future where the benefits of AI are fruitful for all.
+
+----------
+[1]: [(https://www.weforum.org/publications/the-future-of-jobs-report-2020/) "The Future of Jobs Report 2020."
+[2]: www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages./ "Jobs Lost, Jobs Gained: Workforce Transitions in a Time of Automation."
+
+See the included sources below in the standard M.L.A format:
+
+World Economic Forum. "The Future of Jobs Report 2020." World Economic Forum, Oct. 2020, https://www.weforum.org/publications/the-future-of-jobs-report-2020/
+
+McKinsey & Company. "Jobs Lost, Jobs Gained: Workforce Transitions in a Time of Automation." McKinsey Global Institute, Dec. 2017, www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages.
