@@ -7,7 +7,7 @@ Top 5 fantasy books I've Read
 2. ### The Fifth Season - *N.K. Jemisin*
 ![The Fifth Season](./assets/brokenTrident_3.jpg)
 > “This is what you must remember: the ending of one story is just the beginning of another.” 
-3. ### Eragorn - *Christopher Paolini
+3. ### Eragorn - *Christopher Paolini*
 ![Eragorn](./assets/brokenTrident_4.jpg)
 >“There is much you can learn from books.”
 4. ### The Blade Itself - * Joe Abercrombie*
