@@ -19,6 +19,10 @@ Market structure can be broadly classified into three distinct categories:
 
 ![bearish structure](https://github.com/RodSmoove/road_documentation_exercise/blob/main/assets/rodsmoove_5.png)
 
+
 * **Sideways Market Structure**:
         The horizontal movement of price shown by equal highs (EH) and equal lows (EL) is called a sideways trend or sometimes referred to as consolidation.
 Support
+
+
+![sideways structure](https://github.com/RodSmoove/road_documentation_exercise/blob/main/assets/rodsmoove_2.png)
