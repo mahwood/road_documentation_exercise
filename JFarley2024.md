@@ -1,7 +1,7 @@
 
 # Marvel Cinematic Universe Review: State of Phase
 
-![Marvel Universe thus far, 2024](https://github.com/JFarley2024/road_documentation_exercise/tree/main/assets/Jfarley2024_1.webp)
+![Marvel Universe thus far, 2024](assets/Jfarley2024_1.webp)
 
 *Disclaimer*: **Ramblings of a random fan, All rights Reserved**
 
@@ -10,7 +10,7 @@
 
 ## Phase 1
 
-Marvel comes out the gate with a banger in 2008's _Iron Man_ which revitalized Robert Downey Jr's career and launched the whole universe. This was followed up by _The Incredible Hulk_, _Thor_, _Captain America: The first Avenger_ , all solid origin stories,  and the first franchise sequel in _Iron Man 2_. This 1st phase is capped off by _The Avengers_, in 2012 which I considered the closest thing to a "perfect" comic book film at the time of its release. 
+Marvel comes out the gate with a banger in 2008's _Iron Man_ which revitalized Robert Downey Jr's career and launched the whole cinematic universe. This was followed up by _The Incredible Hulk_, _Thor_, _Captain America: The first Avenger_ , all solid origin stories,  and the first franchise sequel in _Iron Man 2_. This 1st phase is capped off by _The Avengers_, in 2012 which I considered the closest thing to a "perfect" comic book film at the time of its release. 
 * Overall this phase was the perfect foundation for the MCU to launch from and I would rate it __5/5__.
 
 ## Phase 2 
