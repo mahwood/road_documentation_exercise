@@ -18,9 +18,9 @@ B.	Skill Gaps and Obsolescence (Examination of how AI exacerbates the need for n
 C.	The Need for Lifelong Learning (Importance of continuous skill development to remain relevant.)
 
 IV.  **Strategic Adaptations for an AI-Driven Future**
-A.	Education and Skill Development (Role of educational institutions in preparing for an AI-augmented workforce.) (Emphasis on STEM education, critical thinking, and adaptability.)
-B.	Corporate Investment in Reskilling (The necessity for businesses to invest in employee skill development.)
-C.	Government Policies and Safety Nets (Discussion on policymaking for worker displacement and equitable access to opportunities.)
+> A.	Education and Skill Development (Role of educational institutions in preparing for an AI-augmented workforce.) (Emphasis on STEM education, critical thinking, and adaptability.)
+> B.	Corporate Investment in Reskilling (The necessity for businesses to invest in employee skill development.)
+> C.	Government Policies and Safety Nets (Discussion on policymaking for worker displacement and equitable access to opportunities.)
 
 V. **Conclusion**
 •	Recap of the dual-edged impact of AI on the workforce.
