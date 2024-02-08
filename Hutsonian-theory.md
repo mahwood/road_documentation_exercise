@@ -17,12 +17,12 @@ Her lyrics explore topics of *femininity*, *identity*, and *introspection*.
 
 She is known for her songs _Good Days_, _All the Lights_, _Snooze_, _Kill Bill_ and _Broken Clocks_.
 
-As well as her numerous collaborations with Travis Scott, Kendrick Lamar, Chance the Rapper, and Don Toliver.
+As well as her numerous collaborations with **Travis Scott**, **Kendrick Lamar**, **Chance the Rapper**, and **Don Toliver**.
 
 ![Image of SZA album cover.](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-sza-v1-caef9ee6-c938-4f82-a50d-f05fb2fef08e.jpg?w=1500&h=900&crop=1).
 
 
-**SZA** has won a Grammy Award, an American Music Award, a Billboard Music Award, two MTV Video Awards and two BET Awards for her performances.
+**SZA** has won a **Grammy Award**, an **American Music Award**, a **Billboard Music Award**, _two_ **MTV Video Awards** and _two_ **BET Awards** for her performances.
 
 SZA’s <sup>SOS era</sup> also includes the global success of her “Kill Bill” single. An official music video for “**Kill Bill**” includes a cameo from Kill Bill movie star **Vivica A. Fox**.
 
