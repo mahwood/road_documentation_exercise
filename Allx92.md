@@ -1,5 +1,4 @@
 # Introduction
-`![alt text]([image URL](https://unsplash.com/photos/colorful-software-or-web-code-on-a-computer-monitor-Skf7HxARcoc))`
 
 
 Welcome to my Documentation Journey ~The journey of a thousand miles begins with one step” Lao Tzu 
