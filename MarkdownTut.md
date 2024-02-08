@@ -3,7 +3,7 @@
 ## Which team has the most wins
 Arsenal, Liverpool and Manchester City are joint-top with 15 wins.
 
-### Which team has the most goals?
+## Which team has the most goals?
 Manchester City currently leads the league with 54 goals, followed by Liverpool with 52 and Aston Villa with 49.
 
 ***Goals and Assists in PL***
@@ -33,7 +33,7 @@ ___Current Standings___
 
 ---
 ***
-#### Relative Links
+### Relative Links
 [Welcome message in folder](RoshawnL.md)
 ***
 ___
