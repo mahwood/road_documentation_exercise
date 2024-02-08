@@ -38,4 +38,4 @@ ACDSE
 	- sRGB color space
 
 # Here is a Cookie
-![image_2](assets/Reader641_2.jpg)
+![image_2](assets/Reader641_2.png)
