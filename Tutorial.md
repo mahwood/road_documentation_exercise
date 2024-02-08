@@ -50,7 +50,7 @@ ___To-do list___
 ---
 ***
 ## Relative Links
-[Welcome message in folder](assets/RoshawnL.md)
+[Welcome message in folder](RoshawnL.md)
 ***
 ___
 ## Images
