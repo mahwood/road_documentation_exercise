@@ -21,3 +21,17 @@ Top 5 fantasy books I've Read
 
 ![Lamb](./assets/brokenTrident_6.jpg)
 >“... but to remain historically accurate, I would have had to leave out an important question that I felt needed to be addressed, which is, 'What if Jesus had known kung fu?”
+
+
+<details>
+
+<summary>Honorable mentions</summary>
+
+- Harry Potter - The Order of the Phoenix
+- Vicious 
+- Jade City
+- The Lies of Lock Lamora
+
+
+
+</details>
